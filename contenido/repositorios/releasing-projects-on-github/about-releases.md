@@ -1,3 +1,4 @@
+![GIT](https://user-images.githubusercontent.com/70537776/156658720-dd6d3667-07d7-43ec-8507-405f8b82c44c.png)
 ---
 title: About releases
 intro: 'You can create a release to package software, along with release notes and links to binary files, for other people to use.'
